@@ -1,7 +1,7 @@
 > With its Bluetooth Connection, Furby Connect is updated frequently with new surprises, like songs. When the antenna glows, this means Furby has something new to show you in the Furby Connect World app. Furby loves to share kid-friendly videos.
 
 <p align="center">
-	<img src="img/debugeyes.jpg" alt="Furby Connect's Eyes" width="50%">
+	<img src="img/debugeyes.jpg" alt="Furby Connect's Eyes" width="50%">  
 </p>
 
 ## Watch the [YouTube Video about this Project](https://www.youtube.com/watch?v=FkblA_CxHgU)
